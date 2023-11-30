@@ -14,5 +14,17 @@
       "password": "123",
       "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfaRr4LEOCraVchvUcBc-YP0zv3AeU2EWkw&usqp=CAU"
     }
+  ],
+  "forum":[
+    {
+      "id":1,
+      "username":"jahir",
+      "language": "JavaScript",
+      "postedDate":"2023-11-30",
+      "questionDescription":"bbnkngfsknlfjlk",
+      "questionTitle":"sdfsfd",
+      "upvotes":0,
+      "answers":1
+    }
   ]
 }
