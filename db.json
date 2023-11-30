@@ -5,14 +5,14 @@
       "username": "jahir",
       "email": "jp@gmail.com",
       "password": "123",
-      "avatar": "profile1.jpg"
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfaRr4LEOCraVchvUcBc-YP0zv3AeU2EWkw&usqp=CAU"
     },
     {
       "id": 2,
       "username": "amol",
       "email": "ap@gmail.com",
       "password": "123",
-      "avatar":"profile1.jpg"
+      "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfaRr4LEOCraVchvUcBc-YP0zv3AeU2EWkw&usqp=CAU"
     }
   ]
 }
